@@ -13,6 +13,8 @@
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     {% include styles.html %}
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 
     <!-- build:js({app,.tmp}) /assets/js/modernizr.js -->
     <script src="/_bower_components/modernizr/modernizr.js"></script>
@@ -23,17 +25,31 @@
         <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
 
-    <header id="header-primary" class="header-primary">
-    </header>
+    <div class="wrapper">
+      <nav id="nav-primary" class="nav-primary">
+        <img src="{{ site.url}}/assets/img/max.jpg" alt="Max Beizer" class="profile-photo" />
+        <h1>Max Beizer</h1>
 
-    <nav id="nav-primary" class="nav-primary">
-    </nav>
+        <ul class="bio-links">
+          <li class="padding-vertical"><a href="mailto:max.beizer@gmail.com"><i class="fa fa-envelope-o fa-fw"></i> max.beizer@gmail.com</a></li>
+          <li><a href="https://www.github.com/maxbeizer"><i class="fa fa-github-square fa-fw"></i> github</a></li>
+          <li><a href="https://www.twitter.com/maxbeizer"><i class="fa fa-twitter-square fa-fw"></i> twitter</a></li>
+          <li><a href="http://www.linkedin.com/profile/view?id=216545665"><i class="fa fa-linkedin-square fa-fw"></i> linkedin</a></li>
+        </ul>
 
-    <section id="content-primary" class="content-primary">
-      {{ content }}
-    </section>
+        <p class="bio">
+          developer, learner, musician, mentor, speaker, blogger, and (some-day) author
+        </p>
+      </nav>
+
+      <section id="content-primary" class="content-primary">
+        {{ content }}
+      </section>
+    </div>
+    <div class="push"></div>
 
     <footer id="footer-primary" class="footer-primary">
+      <span>&copy; 2014 Max Beizer</span>
     </footer>
 
     <!--[if lte IE 8]>

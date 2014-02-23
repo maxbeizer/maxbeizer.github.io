@@ -22,10 +22,68 @@
  * ---------------------------------------------------------------------------
  */
 
-.header-primary {}
+html, body {
+  height: 100%;
+}
 
-.nav-primary {}
+body {
+  padding: 0 1em;
+  @include media($medium-screen) {
+    padding: 2em 0 0;
+  }
+}
 
-.content-primary {}
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -2em;
+  @include outer-container;
+}
 
-.footer-primary {}
+.content-primary {
+  text-align: center;
+  @include span-columns(12);
+  @include media($medium-screen) {
+    text-align: left;
+    @include span-columns(8);
+    @include omega();
+  }
+
+  ul {
+    margin-left: 1em;
+    padding: 0.2em 0 1em;
+  }
+}
+
+.nav-primary {
+  text-align: center;
+  @include span-columns(12);
+  @include media($medium-screen) {
+    @include span-columns(4);
+  }
+}
+
+.profile-photo {
+  max-height: 250px;
+  @include media($medium-screen) {
+    border-radius: 5px;
+  }
+}
+
+.bio {
+  padding: 1em 3em;
+}
+
+.push {
+  height: 4em;
+}
+
+.footer-primary {
+  height: 2em;
+  padding-top: 3em;
+  text-align: center;
+  @include media($medium-screen) {
+    padding-top: 0;
+  }
+}
