@@ -33,15 +33,15 @@ title: Max Beizer, Developer
 * Regular participant in Centresource's book club and code review sessions
 
 ##Employment
-* <i class="fa fa-arrow-circle-o-right"></i>  [Centresource Interactive Agency](http://www.centresource.com) (2013 - Present)
+*   [Centresource Interactive Agency](http://www.centresource.com) (2013 - Present)
   * *Junior Developer*
-* <i class="fa fa-arrow-circle-o-right"></i>  [Max Beizer Music](http://www.maxbeizer.com) (2005 - Present)
+*  [Max Beizer Music](http://www.maxbeizer.com) (2005 - Present)
   * *Songwriter, Singer, Musician, CEO, Janitor*
 
 ##Education
-* <i class="fa fa-book"></i> [Nashville Software School](http://www.nashvillesoftwareschool.com) (June 2012 - December 2012)
+*  [Nashville Software School](http://www.nashvillesoftwareschool.com) (June 2012 - December 2012)
   * *cohort one, the original gangsters*
-* <i class="fa fa-book"></i> [Vanderbilt University](http://www.vanderbilt.edu) (2002 - 2006)
+*  [Vanderbilt University](http://www.vanderbilt.edu) (2002 - 2006)
   * *Bachelor of Arts, Psychology*
 
 ##Fascinations

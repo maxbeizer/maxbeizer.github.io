@@ -42,16 +42,17 @@ body {
 }
 
 .content-primary {
-  text-align: center;
+  text-align: left;
   @include span-columns(12);
   @include media($medium-screen) {
     text-align: left;
-    @include span-columns(8);
+    @include span-columns(7);
     @include omega();
   }
 
   ul {
-    margin-left: 1em;
+    color: darken($light-gray, 40);
+    margin-left: 1.4em;
     padding: 0.2em 0 1em;
   }
 }
@@ -60,19 +61,25 @@ body {
   text-align: center;
   @include span-columns(12);
   @include media($medium-screen) {
-    @include span-columns(4);
+    @include span-columns(5);
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
   }
 }
 
 .profile-photo {
   max-height: 250px;
+  border-radius: 50%;
   @include media($medium-screen) {
-    border-radius: 5px;
   }
 }
 
 .bio {
-  padding: 1em 3em;
+  padding: 1em 5em;
 }
 
 .push {
