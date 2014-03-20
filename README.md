@@ -8,7 +8,8 @@ This project utilizes Playbook, reference Playbook's [setup guide](https://githu
 1. Clone this repository
 2. `npm install`
 3. `bower install`
-4. `bundle install`
+4. `rvm use 2.0.0@maxbeizer --create --ruby-version`
+5. `bundle install`
 
 ## Usage
 
