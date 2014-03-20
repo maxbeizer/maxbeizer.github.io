@@ -21,7 +21,7 @@ title: Max Beizer, Developer
 
 ##Exploring
 * Backbone.js
-* Phonegap
+* Ember.js
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)
