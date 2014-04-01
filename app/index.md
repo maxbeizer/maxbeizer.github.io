@@ -10,7 +10,7 @@ title: Max Beizer, Developer
 * HTML5 and CSS3
 * SASS with [Bourbon](http://bourbon.io)/[Neat](http://neat.bourbon.io)
 * LESS with [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com)
-* SQL with Postgresql
+* SQL with Postgresql and some MySQL
 * Git
 * Heroku
 * Wordpress
@@ -35,7 +35,7 @@ title: Max Beizer, Developer
 ##Employment
 *   [Centresource Interactive Agency](http://www.centresource.com) (2013 - Present)
   * *Junior Developer*
-*  [Max Beizer Music](http://www.maxbeizer.com) (2005 - Present)
+*  [Max Beizer Music](http://www.cdbaby.com/cd/maxbeizer2) (2005 - Present)
   * *Songwriter, Singer, Musician, CEO, Janitor*
 
 ##Education
