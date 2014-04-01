@@ -52,7 +52,9 @@ body {
 
   ul {
     color: darken($light-gray, 40);
+    margin-bottom: 0;
     margin-left: 1.4em;
+    margin-top: 0;
     padding: 0.2em 0 1em;
   }
 }
