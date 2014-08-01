@@ -20,8 +20,8 @@ title: Max Beizer, Developer
 * Agile
 
 ##Exploring
-* Backbone.js
-* Ember.js
+* AngularJs
+* Ionic
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)
