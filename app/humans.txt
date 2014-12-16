@@ -3,11 +3,11 @@
 
 # TEAM
 
-  <name> -- <role> --  <twitter>
+  Max Beizer -- developer --  @maxbeizer
 
 # THANKS
 
-  <name>
+  David Calhoun @david_calhoun
 
 # TECHNOLOGY COLOPHON
 
