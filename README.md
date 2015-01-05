@@ -1,6 +1,6 @@
 # maxbeizer.github.io
 
-A professional resum&eacute; leveraging [Generator Playbook](http://centresource.github.io/generator-playbook) and [Github Pages](https://pages.github.com)
+A professional r&eacute;sum&eacute; leveraging [Generator Playbook](http://centresource.github.io/generator-playbook) and [Github Pages](https://pages.github.com)
 
 ## Project Setup
 This project utilizes Playbook, reference Playbook's [setup guide](https://github.com/centresource/generator-playbook#get-started).
