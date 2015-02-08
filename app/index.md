@@ -32,7 +32,7 @@ title: Max Beizer, Developer
 
 ##Exploring
 * [Elixir](http://elixir-lang.org/)
-* [Phoenix Framework](https://github.com/phoenixframework/phoenix)
+* [iOS Development with Swift](http://nashvillesoftwareschool.com/program/ios/)
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)
