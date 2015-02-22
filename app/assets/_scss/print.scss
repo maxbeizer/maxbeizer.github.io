@@ -1,0 +1,15 @@
+.profile-photo {
+  display: none;
+}
+
+.bio-links li {
+  display: none;
+
+  &:first-child {
+    display: block;
+  }
+}
+
+.bio {
+  display: none;
+}
