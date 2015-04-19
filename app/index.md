@@ -41,7 +41,6 @@ title: Max Beizer, Developer
 * Speaker: [The Ruby Object Model](http://www.slideshare.net/mbeizer/ruby-object-model-23413809)
 * Speaker: [Only What Non-Developers Need to Know about Git and Github](http://www.slideshare.net/mbeizer/git-and-github-31529718)
 * Speaker at [Nodevember '14](http://nodevember.org/): [Undefined is not a Function: What the Most Common Errors in JavaScript Actually Mean](http://maxbeizer.com/undefined-is-not-a-function)
-* Regular participant in Centresource's book club and code review sessions
 
 ##Employment
 *   [Centresource Interactive Agency](http://www.centresource.com) (2013 - Present)
