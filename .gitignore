@@ -23,6 +23,7 @@ Thumbs.db
 *~
 .ruby-version
 .ruby-gemset
+.rbenv-gemsets
 
 # Ignore packages #
 *.7z
