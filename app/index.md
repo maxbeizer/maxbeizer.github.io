@@ -43,7 +43,9 @@ title: Max Beizer, Developer
 * Speaker at [Nodevember '14](http://nodevember.org/): [Undefined is not a Function: What the Most Common Errors in JavaScript Actually Mean](http://maxbeizer.com/undefined-is-not-a-function)
 
 ##Employment
-*   [Centresource Interactive Agency](http://www.centresource.com) (2013 - Present)
+*   [Heroku](http://www.heroku.com) (2015 - Present)
+  * *Web Developer, Marketing*
+*   [Centresource Interactive Agency](http://www.centresource.com) (2013 - 2015)
   * *Developer*
 *  [Max Beizer Music](https://play.spotify.com/artist/0iXjTImnrgwAb0dyAtNDh8?play=true&utm_source=open.spotify.com&utm_medium=open) (2005 - Present)
   * *Songwriter, Singer, Musician, CEO, Janitor*
