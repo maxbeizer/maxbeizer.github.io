@@ -22,7 +22,7 @@ title: Max Beizer, Developer
 * Some [Ember](http://emberjs.com/) and some [Backbone](http://backbonejs.org/)
 * [Ionic](http://ionicframework.com/)
 * [AWS](http://aws.amazon.com/) (mostly S3 and cloudfront)
-* [Redis](http://redis.io/) with [Resque](http://resquework.org/)
+* [Redis](http://redis.io/) with [Resque](http://resquework.org/) and [Sidekiq](http://sidekiq.org/)
 
 ##Open Source
 * Author of the [Gripst Ruby Gem](http://maxbeizer.com/gripst/)
@@ -35,6 +35,7 @@ title: Max Beizer, Developer
 ##Exploring
 * [Elixir](http://elixir-lang.org/)
 * [Phoenix Framework](http://www.phoenixframework.org/)
+* [ReactJS](https://facebook.github.io/react/)
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)

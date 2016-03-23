@@ -10,6 +10,7 @@ This project utilizes Playbook, reference Playbook's [setup guide](https://githu
 3. `bower install`
 4. `rvm use 2.0.0@maxbeizer --create --ruby-version`
 5. `bundle install`
+5. `grunt serve`
 
 ## Usage
 
