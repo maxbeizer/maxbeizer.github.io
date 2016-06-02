@@ -5,24 +5,23 @@ title: Max Beizer, Developer
 
 ##Technologies
 * [Ruby on Rails](http://rubyonrails.org/) (3 and 4)
-* TDD and BDD with [RSpec](http://rspec.info/) and [Cucumber](http://cukes.info/)
-* JavaScript and CoffeeScript
+* TDD and BDD with [RSpec](http://rspec.info/), [Minitest](https://github.com/seattlerb/minitest), and [Cucumber](http://cukes.info/)
+* JavaScript (ES5 and ES6) and CoffeeScript
 * HTML5 and CSS3
-* SASS with [Bourbon](http://bourbon.io)/[Neat](http://neat.bourbon.io)
-* LESS with [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com)
+* SASS with [Bourbon](http://bourbon.io)/[Neat](http://neat.bourbon.io) and [Bootstrap](http://getbootstrap.com)
 * SQL with [PostgreSQL](http://www.postgresql.org/) and some [MySQL](http://www.mysql.com/)
-* Git
-* [Heroku](https://www.heroku.com/)
-* [Wordpress](https://wordpress.com/)
-* [Grunt](http://gruntjs.com/)/[Bower](http://bower.io/)/[NPM](https://www.npmjs.com/)
-* [Jekyll](http://jekyllrb.com/)
-* [Hubot](https://hubot.github.com/)
-* Agile (not really tech, but you know)
-* [AngularJs](https://angularjs.org/)
-* Some [Ember](http://emberjs.com/) and some [Backbone](http://backbonejs.org/)
+* [AngularJS](https://angularjs.org/)
+* Some [Ember](http://emberjs.com/), [Backbone](http://backbonejs.org/), and [React](https://facebook.github.io/react/)
 * [Ionic](http://ionicframework.com/)
-* [AWS](http://aws.amazon.com/) (mostly S3 and cloudfront)
+* [AWS](http://aws.amazon.com/) (mostly S3, EC2, and CloudFront)
+* [Heroku](https://www.heroku.com/)
 * [Redis](http://redis.io/) with [Resque](http://resquework.org/) and [Sidekiq](http://sidekiq.org/)
+* Git/[GitHub](https://github.com/maxbeizer)
+* [Grunt](http://gruntjs.com/)/[Gulp](http://gulpjs.com/)/[Bower](http://bower.io/)/[NPM](https://www.npmjs.com/)
+* [Jekyll](http://jekyllrb.com/)
+* [Hubot](https://hubot.github.com/)/[Lita](https://lita.io)
+* Agile (not really tech, but you know)
+* [Wordpress](https://wordpress.com/)
 
 ##Open Source
 * Author of the [Gripst Ruby Gem](http://maxbeizer.com/gripst/)
@@ -39,11 +38,13 @@ title: Max Beizer, Developer
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)
-* [DISH Conference](http://www.dishconference.com/) panelist 2014
 * Organizer of the [Ruby on Rails for Beginners Meetup (Nashville)](http://www.meetup.com/nashvillerails-beginners/)
-* Speaker: [The Ruby Object Model](http://www.slideshare.net/mbeizer/ruby-object-model-23413809)
-* Speaker: [Only What Non-Developers Need to Know about Git and Github](http://www.slideshare.net/mbeizer/git-and-github-31529718)
+* Speaker: I'll take Lita for $500: Ruby and Chatops
+* Speaker at [Nodevember '15](http://nodevember.org/): From the Ash: PhoenixJS and the Phoenix Framework
 * Speaker at [Nodevember '14](http://nodevember.org/): [Undefined is not a Function: What the Most Common Errors in JavaScript Actually Mean](http://maxbeizer.com/undefined-is-not-a-function)
+* Speaker: [Only What Non-Developers Need to Know about Git and Github](http://www.slideshare.net/mbeizer/git-and-github-31529718)
+* Speaker: [The Ruby Object Model](http://www.slideshare.net/mbeizer/ruby-object-model-23413809)
+* [DISH Conference](http://www.dishconference.com/) panelist 2014
 
 ##Employment
 *   [Heroku](http://www.heroku.com) (2015 - Present)
@@ -64,5 +65,3 @@ title: Max Beizer, Developer
 * [Fender](http://www.fender.com/) guitars and amplifiers
 * [Arsenal FC](http://www.arsenal.com)
 * The reds of Burgundy and the whites of Alsace
-* Entrepreneurship
-* World travel
