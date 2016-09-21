@@ -4,18 +4,19 @@ title: Max Beizer, Developer
 ---
 
 ##Technologies
-* [Ruby on Rails](http://rubyonrails.org/) (3 and 4)
+* [Ruby on Rails](http://rubyonrails.org/) (3, 4, and 5)
 * TDD and BDD with [RSpec](http://rspec.info/), [Minitest](https://github.com/seattlerb/minitest), and [Cucumber](http://cukes.info/)
 * JavaScript (ES5 and ES6) and CoffeeScript
 * HTML5 and CSS3
 * SASS with [Bourbon](http://bourbon.io)/[Neat](http://neat.bourbon.io) and [Bootstrap](http://getbootstrap.com)
 * SQL with [PostgreSQL](http://www.postgresql.org/) and some [MySQL](http://www.mysql.com/)
-* [AngularJS](https://angularjs.org/)
-* Some [Ember](http://emberjs.com/), [Backbone](http://backbonejs.org/), and [React](https://facebook.github.io/react/)
-* [Ionic](http://ionicframework.com/)
-* [AWS](http://aws.amazon.com/) (mostly S3, EC2, and CloudFront)
+* [AngularJS](https://angularjs.org/) (1.x)
+* [React](https://facebook.github.io/react/)
+* Some [Ember](http://emberjs.com/) and [Backbone](http://backbonejs.org/)
+* [Ionic](http://ionicframework.com/) (1.x)
+* [AWS](http://aws.amazon.com/) (mostly S3, EC2, Route53 and CloudFront)
 * [Heroku](https://www.heroku.com/)
-* [Redis](http://redis.io/) with [Resque](http://resquework.org/) and [Sidekiq](http://sidekiq.org/)
+* [Redis](http://redis.io/) including [Resque](http://resquework.org/) and [Sidekiq](http://sidekiq.org/)
 * Git/[GitHub](https://github.com/maxbeizer)
 * [Grunt](http://gruntjs.com/)/[Gulp](http://gulpjs.com/)/[Bower](http://bower.io/)/[NPM](https://www.npmjs.com/)
 * [Jekyll](http://jekyllrb.com/)
