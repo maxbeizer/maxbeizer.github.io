@@ -40,7 +40,7 @@ title: Max Beizer, Developer
 
 ##Activities
 * Mentor at the [Nashville Software School](http://www.nashvillesoftwareschool.com)
-* Organizer of the [Ruby on Rails for Beginners Meetup (Nashville)](http://www.meetup.com/nashvillerails-beginners/)
+* Organizer of the [Nashville Software Beginners Meetup](https://www.meetup.com/nashville-software-beginners)
 * Speaker: I'll take Lita for $500: Ruby and Chatops
 * Speaker at [Nodevember '15](http://nodevember.org/): From the Ash: PhoenixJS and the Phoenix Framework
 * Speaker at [Nodevember '14](http://nodevember.org/): [Undefined is not a Function: What the Most Common Errors in JavaScript Actually Mean](http://maxbeizer.com/undefined-is-not-a-function)
