@@ -26,11 +26,12 @@ title: Max Beizer, Developer
 
 ##Open Source
 * Author of the [Gripst Ruby Gem](http://maxbeizer.com/gripst/)
-* Contributer to various Centresource open-source projects (e.g. [Preseason](https://github.com/centresource/preseason))
+* [RuboCop](https://github.com/bbatsov/rubocop/pull/4107) (TargetRailsVersion feature)
 * [Fitgem](https://github.com/whazzmaster/fitgem/commit/6596fb53d075ac1af8f2efa1ee2e5831f38983d7) (patch)
 * [Paypal Adaptive Gem](https://github.com/tc/paypal_adaptive/commit/a2d132ae7d401c6211cc678455f0b40865b8056c) (patch)
 * [Phoenix Guides](https://github.com/phoenixframework/phoenix_guides/pull/386) (documentation)
 * [shouldi](https://github.com/batate/shouldi/pull/24) (documentation)
+* Contributor to various Centresource open-source projects (e.g. [Preseason](https://github.com/centresource/preseason))
 
 ##Exploring
 * [Elixir](http://elixir-lang.org/)
