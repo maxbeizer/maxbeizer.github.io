@@ -50,7 +50,7 @@ title: Max Beizer, Developer
 
 ##Employment
 *   [Heroku](http://www.heroku.com) (2015 - Present)
-  * *Web Developer, Marketing*
+  * *Senior Member of the Technical Staff, Heroku Vault Team
 *   [Centresource Interactive Agency](http://www.centresource.com) (2013 - 2015)
   * *Developer*
 *  [Max Beizer Music](https://play.spotify.com/artist/0iXjTImnrgwAb0dyAtNDh8?play=true&utm_source=open.spotify.com&utm_medium=open) (2005 - Present)
